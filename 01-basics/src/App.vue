@@ -9,8 +9,8 @@ import ProfileCard from "./components/ProfileCard.vue"
 
     <ProfileCard
       name="Eugen"
-      title="Junior DevOps / Cloud"
-      :skills="['AWS', 'Terraform', 'Docker', 'Linux']"
+      title="Junior Frontend-Developer and AWS Architect"
+      :skills="['AWS', 'Terraform', 'Docker', 'Linux', 'Vue.js', 'HTML', 'CSS', 'JavaScript', 'Python']"
     />
   </main>
 </template>
