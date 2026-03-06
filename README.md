@@ -5,18 +5,21 @@ Goal: learn Vue step-by-step while building small practical examples and
 maintaining a clean Git history.
 
 ## Roadmap
-vue-bootcamp 
-│ 
-├── 01-basics 
-├── 02-reactivity 
-├── 03-forms 
-├── 04-conditions 
-├── 05-computed 
-├── 06-events 
-├── 07-router 
-├── 08-api 
-├── 09-pinia 
+## Roadmap
+```
+vue-bootcamp
+│
+├── 01-basics
+├── 02-reactivity
+├── 03-forms
+├── 04-conditions
+├── 05-computed
+├── 06-events
+├── 07-router
+├── 08-api
+├── 09-pinia
 └── 10-deploy
+```
 
 ## Labs
 - Lab 01 -- Basics - Vue project structure - components - props - simple
