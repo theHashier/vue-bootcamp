@@ -28,6 +28,7 @@ onMounted() - fetch API
 - Lab 03 -- Forms - form handling - validation - user input
 - Lab 04 -- Conditions - v-if - v-else - v-show - conditional rendering
 - Lab 05 -- Computed - computed() - derived reactive values - automatic recalculation - separating logic from template
+- Lab 06 -- Events - v-on - @click - event handling - passing parameters
 - More labs will extend the project toward routing, API integration and
 state management.
 
