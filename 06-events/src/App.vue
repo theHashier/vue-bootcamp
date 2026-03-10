@@ -21,6 +21,6 @@ function reset() {
     <button @click="change(-1)">-1</button>
     <button @click="change(1)">+1</button>
     <button @click="change(5)">+5</button>
-    <button @click="reset">reset</button>
+    <button v-on:click="reset">reset</button>
   </main>
 </template>
