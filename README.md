@@ -5,7 +5,6 @@ Goal: learn Vue step-by-step while building small practical examples and
 maintaining a clean Git history.
 
 ## Roadmap
-## Roadmap
 ```
 vue-bootcamp
 │
@@ -28,6 +27,7 @@ UI layout
 onMounted() - fetch API
 - Lab 03 -- Forms - form handling - validation - user input
 - Lab 04 -- Conditions - v-if - v-else - v-show - conditional rendering
+- Lab 05 -- Computed - computed() - derived reactive values - automatic recalculation - separating logic from template
 - More labs will extend the project toward routing, API integration and
 state management.
 
