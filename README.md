@@ -21,16 +21,16 @@ vue-bootcamp
 ```
 
 ## Labs
-- Lab 01 -- Basics - Vue project structure - components - props - simple
-UI layout
-- Lab 02 -- Reactivity - ref() - reactive state - v-model - v-for -
-onMounted() - fetch API
-- Lab 03 -- Forms - form handling - validation - user input
+- Lab 01 -- Basics - Vue project structure - components - props - simple UI layout
+- Lab 02 -- Reactivity - ref() - reactive state - reactive updates
+- Lab 03 -- Forms - form handling - v-model - user input - validation
 - Lab 04 -- Conditions - v-if - v-else - v-show - conditional rendering
 - Lab 05 -- Computed - computed() - derived reactive values - automatic recalculation - separating logic from template
 - Lab 06 -- Events - v-on - @click - event handling - passing parameters
-- More labs will extend the project toward routing, API integration and
-state management.
+- Lab 07 -- Router - vue-router setup - SPA navigation - router-link - router-view - multiple pages
+- Lab 08 -- API - fetch() - external API requests - async data - rendering API responses
+- Lab 09 -- Pinia - global state management - shared reactive state - store - actions
+- Lab 10 -- Deploy - production build with Vite - dist folder - preview production build - deployment concept
 
 ## Run a lab
 Insert these commands in the CLI:
